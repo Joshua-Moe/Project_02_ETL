@@ -1,7 +1,7 @@
 # Project_02_ETL
 Project 02 - UNCC-VIRT-DATA-PT-03-2024-U-LOLC-MTTH
 
-We webscraped an html page sourced from Wikipedia to obtain a dataframe of state bird by state. Next, merged this dataframe with a congressional dataset by state information. Last, performered filting by rows only containing senate members and dropping columns on middle name and suffix. Uploaded to a database.
+We webscraped an html page sourced from Wikipedia to obtain a dataframe of state birds by state. Next, merged this dataframe with a congressional dataset by state information. Last, performered filtering by rows only containing senate members and dropping columns on middle name and suffix. Uploaded to a database.
 
 Citations
 
